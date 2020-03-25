@@ -2,7 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
 /* Chromeでスライドを印刷するための設定 */
 @page {
-    size: 100%;
+    size: 100% 100%;
     margin: 0;
 }
 @media print {
@@ -72,11 +72,11 @@ code {
 
 /* 左右二段表示 */
 .left-column {
-    width: 48%;
+    width: 100%;
     float: left;
 }
 
 .right-column {
-    width: 48%;
+    width: 100%;
     float: right;
 }
