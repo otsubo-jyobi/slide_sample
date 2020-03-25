@@ -47,12 +47,12 @@ code {
 .remark-code-line-highlighted { background-color: #f5ff49; }
 .pull-left {
     float: left;
-    width: 47%;
+    width: 100%;
 }
 
 .pull-right {
     float: right;
-    width: 47%;
+    width: 100%;
 }
 
 .pull-right ~ p {
