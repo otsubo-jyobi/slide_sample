@@ -3,6 +3,10 @@
     height: 100%;
 }
 
+body {
+    background-color: green;
+}
+
 .remark-slide {
     width: 100%;
     background-color: red;
